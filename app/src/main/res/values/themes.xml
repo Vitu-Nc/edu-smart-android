@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Main App Theme using Material3 (no colorPrimary/Accent) -->
+    <style name="Theme.EDUSMART" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Optional system bars -->
+        <item name="android:statusBarColor" tools:targetApi="21">@android:color/transparent</item>
+        <item name="android:navigationBarColor" tools:targetApi="21">@android:color/transparent</item>
+        <!-- If you want dark icons on light status bar -->
+        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+    </style>
+
+    <!-- Splash stays the same, but point to the M3 app theme -->
+    <style name="Theme.EDUSMART.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/edu_smart</item>
+        <item name="postSplashScreenTheme">@style/Theme.EDUSMART</item>
+    </style>
+
+</resources>

@@ -1,0 +1,22 @@
+[
+  {"question":"What is the staple crop widely grown in Malawi?","options":["Maize","Rice","Wheat","Barley"],"correctIndex":0},
+  {"question":"Which is a major cash crop in Malawi?","options":["Tobacco","Cocoa","Soybean","Tea"],"correctIndex":0,"explanation":"Tobacco has been a leading foreign-exchange earner; tea and sugar are also important."},
+  {"question":"Which practice helps maintain soil fertility over seasons?","options":["Crop rotation","Continuous monocropping","Overgrazing","Deep burning"],"correctIndex":0},
+  {"question":"Which irrigation method delivers water directly to roots with minimal loss?","options":["Drip irrigation","Flood irrigation","Furrow only","Overhead sprinklers"],"correctIndex":0},
+  {"question":"What does nitrogen (N) in fertilizers mainly promote?","options":["Leafy growth","Root development","Flowering/fruiting","Disease resistance"],"correctIndex":0},
+  {"question":"Which conservation practice reduces soil erosion on slopes?","options":["Terracing","Excessive tillage","Removing ground cover","Overgrazing"],"correctIndex":0},
+  {"question":"What is green manure?","options":["Fresh plant material ploughed into soil","Composted animal dung","Synthetic fertilizer","Mulch made of plastic"],"correctIndex":0},
+  {"question":"Which pest-control approach emphasizes combined methods with minimal chemicals?","options":["Integrated Pest Management (IPM)","Blanket pesticide use","Slash-and-burn","Monoculture"],"correctIndex":0},
+  {"question":"Which soil texture has the best water-holding capacity overall?","options":["Clay loam","Pure sand","Silty clay only","Gravel"],"correctIndex":0},
+  {"question":"Which tool is common in smallholder farming?","options":["Hoe","Lathe","Jackhammer","Arc welder"],"correctIndex":0},
+  {"question":"What is the best time to apply most basal fertilizers for maize?","options":["At planting","After harvest","At tasseling","At grain drying"],"correctIndex":0},
+  {"question":"Mulching helps mainly to:","options":["Conserve moisture and reduce weeds","Heat the soil excessively","Attract pests","Increase evaporation"],"correctIndex":0},
+  {"question":"Which crop is commonly used in rotation to improve soil nitrogen?","options":["Beans (legumes)","Sunflower","Cotton","Sorghum only"],"correctIndex":0,"explanation":"Legumes fix atmospheric nitrogen via Rhizobium bacteria."},
+  {"question":"Which livestock is primarily for dairy?","options":["Cattle","Goats","Chickens","Sheep"],"correctIndex":0},
+  {"question":"Which post-harvest practice reduces grain losses from pests/moisture?","options":["Proper drying and hermetic storage","Leaving cobs in the field","Storing wet grain","Open sacks without treatment"],"correctIndex":0},
+  {"question":"What is the recommended basic spacing for maize (approx., depends on variety)?","options":["75 cm between rows, 25–30 cm in-row","30 cm between rows, 75 cm in-row","1 m x 1 m","No spacing needed"],"correctIndex":0},
+  {"question":"Lime is applied to acidic soils mainly to:","options":["Raise pH and improve nutrient availability","Lower pH","Add nitrogen directly","Harden soil"],"correctIndex":0},
+  {"question":"Which enterprise is best for quick household protein production?","options":["Poultry (broilers/layers)","Beef cattle only","Dairy only","Draft oxen"],"correctIndex":0},
+  {"question":"Which practice conserves moisture in rain-fed systems?","options":["Planting basins/contour ridges","Removing crop residues","Bare fallow only","Deep frequent cultivation"],"correctIndex":0},
+  {"question":"Which two crops are also significant Malawian exports besides tobacco?","options":["Tea and sugar","Cocoa and coffee only","Wheat and barley","Citrus and apples"],"correctIndex":0}
+]

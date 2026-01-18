@@ -1,0 +1,22 @@
+[
+  {"question":"What is the basic unit of life?","options":["Cell","Atom","Tissue","Organ"],"correctIndex":0,"explanation":"All living organisms are composed of cells."},
+  {"question":"Where does photosynthesis primarily occur in plant cells?","options":["Chloroplast","Mitochondrion","Nucleus","Ribosome"],"correctIndex":0,"explanation":"Chloroplasts contain chlorophyll for capturing light energy."},
+  {"question":"Which gas is taken in during photosynthesis?","options":["Carbon dioxide","Oxygen","Nitrogen","Hydrogen"],"correctIndex":0},
+  {"question":"Which organelle is called the 'powerhouse' of the cell?","options":["Mitochondrion","Golgi apparatus","Lysosome","Endoplasmic reticulum"],"correctIndex":0},
+  {"question":"Enzymes are mainly made of which biomolecules?","options":["Proteins","Carbohydrates","Lipids","Nucleic acids"],"correctIndex":0},
+  {"question":"Which process produces gametes?","options":["Meiosis","Mitosis","Binary fission","Budding"],"correctIndex":0},
+  {"question":"Which tissue transports water in plants?","options":["Xylem","Phloem","Cambium","Epidermis"],"correctIndex":0},
+  {"question":"What is the normal human body temperature (approx.)?","options":["37°C","34°C","39°C","41°C"],"correctIndex":0},
+  {"question":"How many chambers are in the human heart?","options":["4","2","3","5"],"correctIndex":0},
+  {"question":"Which blood cells are primarily responsible for immunity?","options":["White blood cells","Red blood cells","Platelets","Plasma cells"],"correctIndex":0,"explanation":"Leukocytes (WBCs) defend against pathogens."},
+  {"question":"DNA mainly resides in which part of a eukaryotic cell?","options":["Nucleus","Golgi apparatus","Vacuole","Cell wall"],"correctIndex":0},
+  {"question":"Which base pair combination is correct in DNA?","options":["A–T and C–G","A–C and T–G","A–G and C–T","A–U and C–G"],"correctIndex":0},
+  {"question":"Which process releases energy by breaking down glucose in cells?","options":["Respiration","Photosynthesis","Transpiration","Fermentation only"],"correctIndex":0,"explanation":"Cellular respiration releases ATP from glucose."},
+  {"question":"Which part of the leaf mainly controls transpiration?","options":["Stomata","Veins","Cuticle","Mesophyll"],"correctIndex":0},
+  {"question":"Which Kingdom includes organisms like mushrooms and yeasts?","options":["Fungi","Plantae","Animalia","Protista"],"correctIndex":0},
+  {"question":"Which branch of biology studies heredity?","options":["Genetics","Ecology","Anatomy","Physiology"],"correctIndex":0},
+  {"question":"What term describes organisms that make their own food?","options":["Autotrophs","Heterotrophs","Detritivores","Parasites"],"correctIndex":0},
+  {"question":"Which vitamin prevents night blindness?","options":["Vitamin A","Vitamin C","Vitamin D","Vitamin K"],"correctIndex":0},
+  {"question":"Which biome is characterized by high rainfall and high biodiversity?","options":["Tropical rainforest","Desert","Tundra","Savanna"],"correctIndex":0},
+  {"question":"Which process explains water movement from roots to leaves?","options":["Transpiration pull","Active transport","Diffusion only","Osmosis only"],"correctIndex":0,"explanation":"Cohesion–tension from transpiration drives xylem flow."}
+]
